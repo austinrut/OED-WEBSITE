@@ -1,0 +1,37 @@
+/* AddEvent theme CSS
+---------------------------------------------------------------------- */
+
+/* The button */
+.webinar_button {
+    font-family:Roboto,"Helvetica Neue",Helvetica,Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif;
+    color:#000!important;
+    font-weight:300;
+    line-height:100%;
+    background:#fff;
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    font-size:15px;
+    padding:13px 12px 12px 13px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    cursor:pointer;
+    -webkit-font-smoothing:antialiased!important;
+    text-shadow:1px 1px 1px rgba(0,0,0,0.004);
+	background-image: url(smallIcons/webinarIcon.pngimage);
+	background-repeat: no-repeat;
+    }
+
+.webinar_button:hover {
+	border:1px solid #aab9d4;
+    color:#000;
+    font-size:15px;
+    text-decoration:none;
+    }
+    
+.webinar_button:active {
+	top:1px;
+    }
+    
+.webinar_button:selected {
+	background-color:#f9f9f9;
+    }

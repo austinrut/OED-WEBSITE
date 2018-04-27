@@ -1,0 +1,25 @@
+/*
+Implementations Skeletor v3 - 5/10/2014
+
+oustyles.css
+
+Add styles to overwrite customer CSS, USE WITH CAUTION.
+
+Contributors: Brian Laird
+Last Updated: Enter Date Here
+*/
+
+#directedit, #de {
+    color: #fff;
+    text-decoration: none;
+}
+.staging-msg {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #31708f;
+    padding: 10px;
+}
+.article img {
+    max-height: 100%;
+    max-width: 100%;
+}
